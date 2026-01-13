@@ -14,10 +14,12 @@ coded_correspondence
 
 ### Python_Dictionaries
 hurricane_analysis
+
 medical_insurance
 
 ### Python_Pandas
 page_visits_funnel
+
 this_is_jeopardy
 
 ### Cumulative_Projects
